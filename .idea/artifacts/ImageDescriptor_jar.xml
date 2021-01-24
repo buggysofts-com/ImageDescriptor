@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImageDescriptor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImageDescriptor_jar</output-path>
+    <root id="archive" name="ImageDescriptor.jar">
+      <element id="module-output" name="ImageDescriptor" />
+    </root>
+  </artifact>
+</component>
